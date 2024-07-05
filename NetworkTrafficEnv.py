@@ -15,7 +15,7 @@ class NetworkTrafficEnv(gym.Env):
         Initialize the environment according to OpenAI GYM.
         This environment provides network traffic data for training and evaluating reinforcement learning agents.
         """
-        # Action space indicates 49 possible devices.
+        # Action space indicates 49 possible intrusions, you can custom this according to your own action space or classes.
         self.action_space = gym.spaces.Discrete(49)
         
         # Observation space since features are normalized between 0 and 1,
