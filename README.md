@@ -8,6 +8,7 @@ Reinforcement Learning for Intrusion Detection
 
 ## Installation
 To use the environment you will need the following libraries and it was tested using those versions:
+- python == 3.7.4
 - gym == 0.18.0
 - pandas == 0.25.1
 - numpy == 1.17.2
