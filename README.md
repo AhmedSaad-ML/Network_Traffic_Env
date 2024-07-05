@@ -15,7 +15,11 @@ To use the environment you will need the following libraries and it was tested u
 
 
 ## Usage
-Examples of how to use the code.
+- Example of how to use the environment is provided at the bottom of the "NetworkTrafficEnv.py" file (copy it to your agent's code).
+- To use please clone the repo and put it in the same directory as your RL Agent's code file.
+- Then, import it in your agent's code as
+  ```python
+   from NetworkTrafficEnv import NetworkTrafficEnv
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
