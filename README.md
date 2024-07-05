@@ -1,19 +1,35 @@
-# Network_Traffic_Env
-OpenAI Gym Network Traffic Environment for Intrusion Detection Using Reinforcement Learning
+# Project Title
+Reinforcement Learning for Intrusion Detection
+
+## Description
+"Network_Traffic_Env" is a custom-built OpenAI Gym Network Traffic Environment to train Reinforcement Learning agents.
+
+## Installation
+To use the environment you will need the following libraries and it was tested using those versions:
+- gym == 0.18.0
+- pandas == 0.25.1
+- numpy == 1.17.2
+- torch == 1.9.1
+
+
+## Usage
+Examples of how to use the code.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
-
 If you use this code, please cite the following paper:
 
-@inproceedings{Saad, A.M.S.E., Yildiz, B. (2023)),
-	address = {Cham},
-	author = {Saad, Ahmed Mohamed Saad Emam and Yildiz, Beytullah},
-	booktitle = {Computational Intelligence, Data Analytics and Applications},
-	editor = {Garc{\'\i}a M{\'a}rquez, Fausto Pedro and Jamil, Akhtar and Eken, S{\"u}leyman and Hameed, Alaa Ali},
-	pages = {230--243},
-	publisher = {Springer International Publishing},
-	title = {Reinforcement Learning for Intrusion Detection},
-	year = {2023},
-  doi={[https://doi.org/10.1007/978-3-031-27099-4_18},
-  url={https://link.springer.com/chapter/10.1007/978-3-031-27099-4_18}
+```bibtex
+@inproceedings{10.1007/978-3-031-27099-4_18,
+  address = {Cham},
+  author = {Saad, Ahmed Mohamed Saad Emam and Yildiz, Beytullah},
+  booktitle = {Computational Intelligence, Data Analytics and Applications},
+  editor = {Garc{\'\i}a M{\'a}rquez, Fausto Pedro and Jamil, Akhtar and Eken, S{\"u}leyman and Hameed, Alaa Ali},
+  isbn = {978-3-031-27099-4},
+  pages = {230--243},
+  publisher = {Springer International Publishing},
+  title = {Reinforcement Learning for Intrusion Detection},
+  year = {2023}
 }
