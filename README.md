@@ -15,8 +15,9 @@ To use the environment you will need the following libraries and it was tested u
 
 
 ## Usage
+- Make sure you have the libraries mentioned above installed.
 - Example of how to use the environment is provided at the bottom of the "NetworkTrafficEnv.py" file (copy it to your agent's code).
-- To use please clone the repo and put it in the same directory as your RL Agent's code file.
+- To use the environment, please clone the repo or download the "NetworkTrafficEnv.py" file and put it in the same directory as your RL Agent's code file.
 - Then, import it in your agent's code as
   ```python
    from NetworkTrafficEnv import NetworkTrafficEnv
