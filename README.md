@@ -2,7 +2,7 @@
 Reinforcement Learning for Intrusion Detection
 
 ## Description
-"Network_Traffic_Env" is a custom-built OpenAI Gym Network Traffic Environment to train Reinforcement Learning agents.
+"Network_Traffic_Env" is a custom-built OpenAI Gym Environment. This environment provides network traffic for training and evaluating reinforcement learning agents.
 
 ## Installation
 To use the environment you will need the following libraries and it was tested using those versions:
