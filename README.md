@@ -22,15 +22,13 @@ To use the environment you will need the following libraries and it was tested u
 - Then, import it in your agent's code as
   ```python
    from NetworkTrafficEnv import NetworkTrafficEnv
-
-## License
-This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
+  
 
 ## Citation
-If you use this code, please cite the following paper:
+If you use this code, please cite our [**paper**][doi]:
 
 ```bibtex
-@inproceedings{10.1007/978-3-031-27099-4_18,
+@inproceedings{saad2022reinforcement,
   address = {Cham},
   author = {Saad, Ahmed Mohamed Saad Emam and Yildiz, Beytullah},
   booktitle = {Computational Intelligence, Data Analytics and Applications},
@@ -39,5 +37,12 @@ If you use this code, please cite the following paper:
   pages = {230--243},
   publisher = {Springer International Publishing},
   title = {Reinforcement Learning for Intrusion Detection},
-  year = {2023}
+  year = {2022},
+  url = {https://link.springer.com/chapter/10.1007/978-3-031-27099-4_18}
 }
+```
+
+## License
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
+
+[doi]: https://link.springer.com/chapter/10.1007/978-3-031-27099-4_18
