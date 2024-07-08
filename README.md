@@ -24,7 +24,7 @@ To use the environment you will need the following libraries and it was tested u
    from NetworkTrafficEnv import NetworkTrafficEnv
 
 ## License
-This project is licensed under the LGPLv3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 If you use this code, please cite the following paper:
